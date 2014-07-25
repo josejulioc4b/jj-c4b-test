@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+
+Probando esto local.
+=======
+Probando arriba.
+>>>>>>> origin/rama1
